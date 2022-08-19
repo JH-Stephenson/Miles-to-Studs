@@ -7,5 +7,7 @@ This will output it in two formats;
 1) Realistic Scale, if it was taken into account this would result in 0.5 Miles being almost 3000 Studs.
 3) Roblox Scale, scaled down 4x for game-conveinence.
 
+This system will also continuously repeat itself for conveience when converting.
+
 Enjoy,
 James
